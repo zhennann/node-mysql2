@@ -1,6 +1,6 @@
 {
   "name": "@zhennann/mysql2",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "description": "fast mysql driver. Implements core protocol, prepared statements, ssl and compression in native JS",
   "main": "index.js",
   "publishConfig": {
